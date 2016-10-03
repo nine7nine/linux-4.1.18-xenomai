@@ -1,0 +1,1 @@
+/home/ninez/pkgs/linux-patches/xenomai-3.0.3/kernel/drivers/net/drivers/e1000/e1000_hw.c

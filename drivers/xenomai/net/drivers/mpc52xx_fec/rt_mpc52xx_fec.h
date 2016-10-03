@@ -1,0 +1,1 @@
+/home/ninez/pkgs/linux-patches/xenomai-3.0.3/kernel/drivers/net/drivers/mpc52xx_fec/rt_mpc52xx_fec.h
